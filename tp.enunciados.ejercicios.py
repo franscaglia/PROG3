@@ -7,7 +7,7 @@
 #Dada una lista de enteros, calcular cuál es el que más veces aparece.
 
 # Ejercicio 2
-#Hacer kmeans sobre un dataset dado (con un k adecuado), luego informar el contenido del cluster de 
+# Hacer kmeans sobre un dataset dado (con un k adecuado), luego informar el contenido del cluster de 
 # más puntos, y su radio.
 
 # Ejercicio 3
